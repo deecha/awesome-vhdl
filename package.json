@@ -1,19 +1,19 @@
 {
-    "name": "vhdl-by-vhdlwhiz",
-    "displayName": "VHDL by VHDLwhiz",
+    "name": "vhdl-by-deecha",
+    "displayName": "VHDL by Deecha",
     "description": "Snippets, templates, syntax highlighting and code completion",
     "version": "1.2.15",
-    "publisher": "vhdlwhiz",
+    "publisher": "deecha",
     "icon": "images/icon.png",
-    "homepage": "https://github.com/jonasjj/awesome-vhdl/blob/master/README.md",
+    "homepage": "https://github.com/deecha/awesome-vhdl/blob/master/README.md",
     "license": "MIT License",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jonasjj/awesome-vhdl"
+        "url": "https://github.com/deecha/awesome-vhdl"
     },
     "bugs": {
-        "url": "https://github.com/jonasjj/awesome-vhdl/issues",
-        "email": "jonas@vhdlwhiz.com"
+        "url": "https://github.com/deecha/awesome-vhdl/issues",
+        "email": "git@github.com:deecha/awesome-vhdl.git"
     },
     "engines": {
         "vscode": "^1.62.3"
